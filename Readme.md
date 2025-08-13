@@ -9,7 +9,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/awesome-project.git](https://github.com/vasyavasya7628/report_maker.git
+git clone https://github.com/vasyavasya7628/report_maker.git
 
 # Install dependencies
 pip install -r requirements.txt
